@@ -109,9 +109,8 @@ export default function App() {
             <Clock className="text-orange-500 mb-4" size={32} />
             <h3 className="text-white font-bold mb-2 uppercase tracking-wider">Darba laiks</h3>
             <div className="text-zinc-400 flex flex-col items-center md:items-start gap-1">
-              <p>Mon-Tue - Closed</p>
-              <p>Wed-Sat - 12:00 - 21:00</p>
-              <p>Sun - 12:00 - 19:00</p>
+              <p>Pirmdiena - Sestdiena: 12:00 - 21:00</p>
+              <p>Svētdiena: 12:00 - 19:00</p>
             </div>
           </div>
           <div className="flex flex-col items-center md:items-start">
